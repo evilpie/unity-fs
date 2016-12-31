@@ -1,0 +1,8 @@
+[package]
+name = "unity-fs"
+version = "0.1.0"
+authors = ["Tom Schuster <evilpies@gmail.com>"]
+
+[dependencies]
+nom = "^2.0"
+lz4 = "1.20.0"
